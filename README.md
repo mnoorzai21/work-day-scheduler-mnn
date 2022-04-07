@@ -1,1 +1,1 @@
-# work-day-sheduler-mnn
+# work-day-scheduler-mnn
